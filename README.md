@@ -11,4 +11,4 @@ For more information visit our website here: https://carolinadata.unc.edu/
 # For the Workshop 
 To follow along with the live coding example, go to the file `CADS_DataCleaningWorkshop.ipynb` and click on "open in Colab"
 # The Data
-The messy data set was created by the `
+The messy data set was created by the `create_messy_data.ipynb` file. The script was run and saved in `messy_data.csv`
