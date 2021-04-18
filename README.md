@@ -7,8 +7,9 @@ Carolina Analytics & Data Science (CADS) is concerned with providing students in
 For more information visit our website here: https://carolinadata.unc.edu/
 
 # Description of Event
-
+Messy data sets are intimidating. Learn about common ways that data can be "messy" and how to deal with them. We'll also be going over a live coding example in Python! Join us on 4/21 from 7-8 PM. 
 # For the Workshop 
 To follow along with the live coding example, go to the file `CADS_DataCleaningWorkshop.ipynb` and click on "open in Colab"
+Link to the slides: https://tinyurl.com/CADS-data-cleaning-workshop
 # The Data
 The messy data set was created by the `create_messy_data.ipynb` file. The script was run and saved in `messy_data.csv`
