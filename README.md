@@ -9,5 +9,5 @@ For more information visit our website here: https://carolinadata.unc.edu/
 # Description of Event
 
 # For the Workshop 
-
+To follow along with the live coding example, go to the file `CADS_DataCleaningWorkshop.ipynb` and click on the 
 # The Data
